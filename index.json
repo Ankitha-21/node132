@@ -1,0 +1,145 @@
+{
+    "phones": [
+      {
+        "id": 1,
+        "brand": "Apple",
+        "model": "iPhone 14",
+        "release_date": "2022-09-07",
+        "cost": 799.99
+      },
+      {
+        "id": 2,
+        "brand": "Samsung",
+        "model": "Galaxy S23 Ultra",
+        "release_date": "2023-02-01",
+        "cost": 1199.99
+      },
+      {
+        "id": 3,
+        "brand": "Google",
+        "model": "Pixel 8 Pro",
+        "release_date": "2023-10-04",
+        "cost": 899.99
+      },
+      {
+        "id": 4,
+        "brand": "Apple",
+        "model": "iPhone 13",
+        "release_date": "2021-09-14",
+        "cost": 699.99
+      },
+      {
+        "id": 5,
+        "brand": "Apple",
+        "model": "iPhone SE",
+        "release_date": "2022-03-08",
+        "cost": 399.99
+      },
+      {
+        "id": 6,
+        "brand": "Apple",
+        "model": "iPhone 12 Pro Max",
+        "release_date": "2020-10-23",
+        "cost": 1099.99
+      },
+      {
+        "id": 7,
+        "brand": "Samsung",
+        "model": "Galaxy Z Fold 4",
+        "release_date": "2022-08-10",
+        "cost": 1799.99
+      },
+      {
+        "id": 8,
+        "brand": "Samsung",
+        "model": "Galaxy S22 Ultra",
+        "release_date": "2022-02-09",
+        "cost": 999.99
+      },
+      {
+        "id": 9,
+        "brand": "Samsung",
+        "model": "Galaxy Z Flip 4",
+        "release_date": "2022-08-10",
+        "cost": 999.99
+      },
+      {
+        "id": 10,
+        "brand": "Google",
+        "model": "Pixel 7 Pro",
+        "release_date": "2022-10-06",
+        "cost": 899.99
+      },
+      {
+        "id": 11,
+        "brand": "Samsung",
+        "model": "Galaxy A54",
+        "release_date": "2023-03-15",
+        "cost": 450.00
+      },
+      {
+        "id": 12,
+        "brand": "Google",
+        "model": "Pixel 7",
+        "release_date": "2022-10-06",
+        "cost": 599.99
+      },
+      {
+        "id": 13,
+        "brand": "Google",
+        "model": "Pixel 6a",
+        "release_date": "2022-07-28",
+        "cost": 449.99
+      },
+      {
+        "id": 14,
+        "brand": "OnePlus",
+        "model": "OnePlus 11",
+        "release_date": "2023-02-07",
+        "cost": 749.99
+      },
+      {
+        "id": 15,
+        "brand": "OnePlus",
+        "model": "OnePlus 10 Pro",
+        "release_date": "2022-01-11",
+        "cost": 899.99
+      },
+      {
+        "id": 16,
+        "brand": "OnePlus",
+        "model": "OnePlus Nord 2T",
+        "release_date": "2022-05-19",
+        "cost": 399.99
+      },
+      {
+        "id": 17,
+        "brand": "Xiaomi",
+        "model": "Xiaomi 13 Pro",
+        "release_date": "2023-02-26",
+        "cost": 999.99
+      },
+      {
+        "id": 18,
+        "brand": "Xiaomi",
+        "model": "Xiaomi 13",
+        "release_date": "2023-02-26",
+        "cost": 799.99
+      },
+      {
+        "id": 19,
+        "brand": "Motorola",
+        "model": "Edge 40 Pro",
+        "release_date": "2023-04-23",
+        "cost": 899.99
+      },
+      {
+        "id": 20,
+        "brand": "Motorola",
+        "model": "Moto E 2023",
+        "release_date": "2023-01-05",
+        "cost": 179.99
+      }
+    ]
+  }
+  
